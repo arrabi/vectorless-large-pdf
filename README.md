@@ -1,5 +1,7 @@
 # Vectorless PDF Chatbot
 
+original app: https://vectorless-chatbot.vercel.app
+
 A revolutionary PDF chatbot that uses **no vector embeddings** or traditional RAG. Instead, it leverages Large Language Models for intelligent document selection and page relevance detection, providing a completely stateless and privacy-first experience.
 
 ## 🚀 What Makes This "Vectorless"?
